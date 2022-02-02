@@ -1,0 +1,11 @@
+.hero__info{
+    padding: 0 0 0 15px;
+}
+.hero__botton{
+    position: absolute;
+    top: calc(100% - 27px);
+    left: calc(100% - 350px);
+}
+.dishes {
+    margin: 10rem auto;
+}

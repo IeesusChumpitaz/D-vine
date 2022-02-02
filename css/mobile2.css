@@ -1,0 +1,26 @@
+.dishes__grip{
+    grid-template-columns: repeat(auto-fit,minmax(10rem , 20rem));
+    justify-content: center;
+}
+.menu__grid{
+    grid-template-columns: repeat(auto-fit,minmax(5rem, 15rem));
+}
+.footer-logo__grid{
+    grid-template-columns: minmax(20rem, 30rem) minmax(20rem , 50rem);
+    grid-template-rows: repeat(2, 22rem);
+}
+.footer-logo__img{
+    justify-self: flex-end;
+}
+.footer__parrafo {
+
+    padding: 5rem;
+}
+.footer-items__respon{
+    width: 388px;
+    margin-bottom: 6rem;
+    margin-top: 5rem;
+}
+.footer-items__respon2{
+    margin-bottom: 5rem;
+}
